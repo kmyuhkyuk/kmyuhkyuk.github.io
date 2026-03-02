@@ -1,0 +1,22 @@
+{
+  "name": "kmyuhkyuk.github.io",
+  "short_name": "kmyuhkyuk.github.io",
+  "id": "./",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#03173d",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "resources/Avatar_Bust_NagantSR.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ]
+}
